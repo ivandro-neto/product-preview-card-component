@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Source](https://github.com/ivandro-neto/product-preview-card-component.git)
+- Live Site URL: [Page](https://ivandro-neto.github.io/product-preview-card-component/)
 
 ## My process
 
@@ -46,7 +46,7 @@ Users should be able to:
 
 ## Author
 
-- Github - [ivandro-neto](https://www.your-site.com)
+- Github - [ivandro-neto](https://github.com/ivandro-neto)
 - Frontend Mentor - [@ivandro-neto](https://www.frontendmentor.io/profile/ivandro-neto)
 
 
